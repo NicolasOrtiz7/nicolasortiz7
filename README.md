@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 soy Nicolas</h1>
-<h3 style="font-size: 20px;" align="center">Programador Java Backend</h3>
+<h3 style="font-size: 20px;" align="center">Programador Backend: Java, Spring Boot, Microservicios</h3>
 <strong style="font-size: 20px;">- Técnico en Programación </strong> en Universidad Tecnológica Nacional (UTN FRSR) <br>
 <strong style="font-size: 20px;">- Estudiante Licenciatura en Sistemas </strong> en Universidad de Buenos Aires (UBA FCE)
 
