@@ -1,13 +1,7 @@
 <h1 align="center">Hola 👋 soy Nicolas</h1>
-<h3 align="center">Programador Java Backend</h3>
-<strong>Técnico en Programación</strong>en Universidad Tecnológica Nacional <br>
-<strong>Estudiante Licenciatura en Sistemas</strong> en Universidad de Buenos Aires
-<p>Tengo conocimientos en:</p>
-<strong>Backend: </strong>
-<p>Java, Spring boot, Microservicios con Spring Cloud, Spring Security, Spring Data JPA</p>
-<strong>Frontend: </strong>
-<p>Angular, TypeScript, JavaScript, Bootstrap</p>
-
+<h3 style="font-size: 20px;" align="center">Programador Java Backend</h3>
+<strong style="font-size: 20px;">- Técnico en Programación </strong> en Universidad Tecnológica Nacional <br>
+<strong style="font-size: 20px;">- Estudiante Licenciatura en Sistemas </strong> en Universidad de Buenos Aires
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
@@ -41,7 +35,17 @@
     <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
     <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
     <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
-</div>
+</div><br>
+<p>Tengo conocimientos en:</p>
+<strong>Backend: </strong>
+<p>Java, Spring boot, Microservicios, Spring Cloud, Spring Security, Spring Data JPA, JUnit, Mockito</p>
+<strong>Frontend: </strong>
+<p>Angular, TypeScript, JavaScript, Bootstrap, HTML, CSS</p>
+<strong>Bases de datos: </strong>
+<p>PostgreSQL, MySQL, MongoDB</p>
+<strong>Otros: </strong>
+<p>Docker, Git, GitHub</p>
+<br>
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasortiz7&show_icons=true&locale=en&layout=compact"
         alt="nicolasortiz7" /></p>
